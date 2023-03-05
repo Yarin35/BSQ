@@ -1,7 +1,7 @@
 # BSQ
 Biggest SQuare finder
 
-For this project the goal is to find the biggest square full of '*' in a map filled with '*' and 'o' for the obstacles.
+For this project the goal is to find the biggest square full of 'star character' in a map filled with 'star character' and 'o' for the obstacles.
 And thus the quickest/lightest possible.
 
 USAGE:
