@@ -18,4 +18,4 @@ has to be made of '.' and 'o'.
 
 -If you wanna know how quick it is you can use "time" before the executable
 
--If you wanna redirect it to file for any reasons (it's quicker since you won't print in the terminal) you simply have to do > [file-name] after the command.
+-If you wanna redirect it to file for any reasons (it's quicker since you won't print in the terminal) you simply have to do "> [file-name]" after the command.
